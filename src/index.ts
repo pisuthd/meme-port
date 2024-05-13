@@ -1,3 +1,3 @@
-import { Add } from './Add.js';
+import { MemeCoin } from './memecoin.js';
 
-export { Add };
+export { MemeCoin };
